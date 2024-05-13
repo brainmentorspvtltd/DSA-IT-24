@@ -1,11 +1,11 @@
 import java.util.ArrayList;
 
-class A{
-    int x, y;
-}
+// class A{
+//     int x, y;
+// }
 public class ArrayDemo {
     public static void main(String[] args) {
-        A obj = new A();
+       // A obj = new A();
         // new A();
         // obj - ?
         // obj is a reference variable
